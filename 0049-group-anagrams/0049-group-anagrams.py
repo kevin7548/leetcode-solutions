@@ -9,3 +9,5 @@ class Solution:
             dict[key].append(str)
 
         return list(dict.values())
+
+# dict, str 말고 anagram_map, word (내장함수 지양)
