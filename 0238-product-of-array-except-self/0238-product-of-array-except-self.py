@@ -18,3 +18,4 @@ class Solution:
 
         return array
         
+        # prefix, suffix 한 정수로 array 하나로 처리
