@@ -3,9 +3,6 @@ class Solution:
         left = 0
         right = len(nums) - 1
 
-        if target not in nums:
-            return -1
-        
         while left <= right:
             mid = (left + right) // 2
             if target < nums[mid]:
@@ -14,3 +11,6 @@ class Solution:
                 left = mid + 1
             else:
                 return mid
+
+        # target 일일이 찾아서 없는 경우 확인 O(N)이라 비효율적
+        return -1
