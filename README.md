@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/kevin7548/leetcode-solutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/kevin7548/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kevin7548/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/kevin7548/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/kevin7548/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin7548/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/kevin7548/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -77,9 +78,11 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kevin7548/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/kevin7548/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kevin7548/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin7548/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/kevin7548/leetcode-solutions/tree/master/0704-binary-search) |
 ## Greedy
