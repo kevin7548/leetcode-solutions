@@ -18,18 +18,16 @@ class Solution:
             cur_len = len(queue)
             cur_level = []
 
-            for _ in range(cur_len):
+            for i in range(cur_len):
                 node = queue.popleft()
+                if i == cur_len - 1:
+                    result.append(node.val)
 
                 if node.left:
                     queue.append(node.left)
 
                 if node.right:
                     queue.append(node.right)
-                
-                cur_level.append(node.val)
-            
-            result.append(cur_level[-1])
-        
+                                  
         return result
         
