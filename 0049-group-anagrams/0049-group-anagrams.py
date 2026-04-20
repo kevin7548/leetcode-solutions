@@ -2,12 +2,9 @@ from collections import defaultdict
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        dict = defaultdict(list)
+        seen = defaultdict(list)   # {기준: [문자열]}
+        for string in strs:
+            key = tuple(sorted(string))
+            seen[key].append(string)
 
-        for str in strs:
-            key = ''.join(sorted(str))
-            dict[key].append(str)
-
-        return list(dict.values())
-
-# dict, str 말고 anagram_map, word (내장함수 지양)
+        return list(seen.values())
