@@ -1,9 +1,11 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        # s = s.lower()
-        # alphanumeric = "abcdefghijklmnopqrstuvwxyz0123456789"
-        filtered = [letter for letter in s.lower() if letter.isalnum()]
-        
-        return filtered == filtered[::-1]
-        
-        
+        s = ''.join(c.lower() for c in s if c.isalnum())
+        left = 0
+        right = len(s) - 1
+        while left < right:
+            if s[left] != s[right]:
+                return False
+            left += 1
+            right -= 1
+        return True
