@@ -1,4 +1,4 @@
-from collections import defaultdict
+from collections import Counter, defaultdict
 
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
