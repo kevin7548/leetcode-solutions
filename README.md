@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kevin7548/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kevin7548/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin7548/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/kevin7548/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kevin7548/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kevin7548/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/kevin7548/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/kevin7548/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/kevin7548/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kevin7548/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kevin7548/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -138,6 +141,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kevin7548/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kevin7548/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kevin7548/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -152,4 +156,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kevin7548/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kevin7548/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
