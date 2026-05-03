@@ -160,6 +160,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kevin7548/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kevin7548/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kevin7548/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kevin7548/leetcode-solutions/tree/master/0198-house-robber) |
@@ -179,9 +180,14 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kevin7548/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kevin7548/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kevin7548/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kevin7548/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
