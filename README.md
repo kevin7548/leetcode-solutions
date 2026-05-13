@@ -22,6 +22,7 @@
 | [0322-coin-change](https://github.com/kevin7548/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/kevin7548/leetcode-solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/kevin7548/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kevin7548/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kevin7548/leetcode-solutions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/kevin7548/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kevin7548/leetcode-solutions/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kevin7548/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
