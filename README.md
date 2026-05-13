@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/kevin7548/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/kevin7548/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/kevin7548/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kevin7548/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/kevin7548/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/kevin7548/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kevin7548/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kevin7548/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kevin7548/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kevin7548/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/kevin7548/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kevin7548/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kevin7548/leetcode-solutions/tree/master/0242-valid-anagram) |
