@@ -1,6 +1,6 @@
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
-        if intervals == []:
+        if not intervals:
             return [newInterval]
         
         left, right = [], []
@@ -13,7 +13,3 @@ class Solution:
                 newInterval = [min(newInterval[0], start), max(newInterval[1], end)]
         
         return left + [newInterval] + right
-        #[1,2], [3,5], [6,7], [8,10], [12,16]
-        #[3,10]
-
-        #[1,2], [12,16]
