@@ -5,16 +5,16 @@ class Solution:
         R, C = len(grid), len(grid[0])
         max_t, fresh_count = 0, 0
 
-        # 1. rotten orange 찾기
+        # 1. rotten orange 찾기 & fresh orange 세기
         q = deque([])
         for r in range(R):
             for c in range(C):
                 if grid[r][c] == 2:
                     q.append((r, c, 0))
-                if grid[r][c] == 1:
+                elif grid[r][c] == 1:
                     fresh_count += 1
         
-        # 2. bfs
+        # 2. multi-source BFS
         while q:
             r, c, t = q.popleft()
             max_t = max(t, max_t)
