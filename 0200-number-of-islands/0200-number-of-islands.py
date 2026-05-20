@@ -1,29 +1,19 @@
-from collections import deque
-
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid:
-            return 0
-        rows, cols = len(grid), len(grid[0])
+        R, C = len(grid), len(grid[0])
+
+        def dfs(r, c):
+            if r<0 or r>=R or c<0 or c>=C or grid[r][c] == '0':
+                return
+            grid[r][c] = '0'
+            for dr, dc in [(-1,0),(1,0),(0,1),(0,-1)]:
+                dfs(r+dr, c+dc)
+        
         count = 0
-
-        def bfs(r, c):  # 인접한 칸을 0으로 바꿔주는 로직
-            queue = deque([(r,c)])
-            grid[r][c] = 0  # visited
-
-            while queue:
-                row, col = queue.popleft()
-                for dr, dc in [(0,1),(0,-1),(1,0),(-1,0)]:
-                    nr, nc = row + dr, col + dc
-                    if 0 <= nr < rows and 0 <= nc < cols and grid[nr][nc] == "1":
-                        grid[nr][nc] = 0    # visited
-                        queue.append((nr, nc))
-
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] == "1":
+        for r in range(R):
+            for c in range(C):
+                if grid[r][c] == '1':
+                    dfs(r, c)
                     count += 1
-                    bfs(r, c)
-
+        
         return count
-                    
