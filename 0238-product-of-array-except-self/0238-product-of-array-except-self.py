@@ -1,21 +1,13 @@
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
-        # i번째 기준, 0~i-1은 prefix, i+1~n-1은 suffix
         n = len(nums)
-        array = [1] * n
-
-        # prefix [1, 1, 2, 6]
-        prefix = 1
-        for i in range(n):
-            array[i] = prefix
-            prefix *= nums[i]
-
-        # suffix [24, 12, 4, 1]
-        suffix = 1
-        for j in range(-1, -n-1, -1):
-            array[j] *= suffix
-            suffix *= nums[j]
-
-        return array
+        prefix, suffix = [1] * n, [1] * n
+        for i in range(n-1):
+            prefix[i+1] = prefix[i] * nums[i] # [1, 1, 2, 6]
+            suffix[n-2-i] = suffix[n-1-i] * nums[n-1-i] # [24, 12, 4, 1]
         
-        # prefix, suffix 한 정수로 array 하나로 처리
+        answer = [0] * n
+        for i in range(n):
+            answer[i] = prefix[i] * suffix[i]
+
+        return answer
