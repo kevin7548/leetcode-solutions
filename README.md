@@ -27,6 +27,7 @@
 | [0704-binary-search](https://github.com/kevin7548/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kevin7548/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/kevin7548/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kevin7548/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/kevin7548/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/kevin7548/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kevin7548/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kevin7548/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 ## Quickselect
 |  |
 | ------- |
