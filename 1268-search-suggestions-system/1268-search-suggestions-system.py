@@ -10,7 +10,7 @@ class Solution:
             suggestions = []
             left = bisect.bisect_left(products, prefix) # bisect 활용 인덱싱
             for i in range(left, min(left + 3, len(products))):
-                if products[i].startswith(prefix):
+                if products[i].startswith(prefix):  # startswith 함수
                     suggestions.append(products[i])
                 else:
                     break
