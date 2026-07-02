@@ -1,15 +1,19 @@
+import bisect
+
 class Solution:
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
         products.sort()
         result = []
-        for l in range(1, len(searchWord)+1):
-            prefix = searchWord[:l]   # 길이 l
-            ls = []
-            for p in products:
-                if p[:l] == prefix:
-                    ls.append(p)
-                if len(ls) == 3:
+        prefix = ""
+        for char in searchWord:
+            prefix += char  # prefix 일일이 인덱싱 X
+            suggestions = []
+            left = bisect.bisect_left(products, prefix) # bisect 활용 인덱싱
+            for i in range(left, min(left + 3, len(products))):
+                if products[i].startswith(prefix):
+                    suggestions.append(products[i])
+                else:
                     break
-            result.append(ls)
+            result.append(suggestions)
         return result
 
