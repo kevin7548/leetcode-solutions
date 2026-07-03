@@ -30,6 +30,7 @@
 | [0994-rotting-oranges](https://github.com/kevin7548/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kevin7548/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/kevin7548/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0088-merge-sorted-array](https://github.com/kevin7548/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kevin7548/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin7548/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/kevin7548/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin7548/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/kevin7548/leetcode-solutions/tree/master/0704-binary-search) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/kevin7548/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
 |  |
 | ------- |
