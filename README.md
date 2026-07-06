@@ -32,6 +32,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kevin7548/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kevin7548/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1898-maximum-number-of-removable-characters](https://github.com/kevin7548/leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0125-valid-palindrome](https://github.com/kevin7548/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin7548/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kevin7548/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1898-maximum-number-of-removable-characters](https://github.com/kevin7548/leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0242-valid-anagram](https://github.com/kevin7548/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kevin7548/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [1898-maximum-number-of-removable-characters](https://github.com/kevin7548/leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kevin7548/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kevin7548/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1898-maximum-number-of-removable-characters](https://github.com/kevin7548/leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 ## Greedy
 |  |
 | ------- |
