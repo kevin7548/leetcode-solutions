@@ -31,6 +31,7 @@
 | [0994-rotting-oranges](https://github.com/kevin7548/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kevin7548/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kevin7548/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/kevin7548/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kevin7548/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1898-maximum-number-of-removable-characters](https://github.com/kevin7548/leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -96,6 +97,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/kevin7548/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kevin7548/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/kevin7548/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Bucket Sort
 |  |
