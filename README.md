@@ -171,6 +171,7 @@
 | [0200-number-of-islands](https://github.com/kevin7548/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kevin7548/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kevin7548/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0226-invert-binary-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/kevin7548/leetcode-solutions/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/kevin7548/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kevin7548/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kevin7548/leetcode-solutions/tree/master/0207-course-schedule) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kevin7548/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Topological Sort
 |  |
 | ------- |
