@@ -27,6 +27,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/kevin7548/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kevin7548/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/kevin7548/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/kevin7548/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kevin7548/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kevin7548/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -203,6 +204,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kevin7548/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kevin7548/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/kevin7548/leetcode-solutions/tree/master/0322-coin-change) |
+| [0746-min-cost-climbing-stairs](https://github.com/kevin7548/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/kevin7548/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Union-Find
 |  |
