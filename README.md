@@ -80,6 +80,7 @@
 | [0125-valid-palindrome](https://github.com/kevin7548/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kevin7548/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kevin7548/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/kevin7548/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1898-maximum-number-of-removable-characters](https://github.com/kevin7548/leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 ## Divide and Conquer
@@ -202,6 +203,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kevin7548/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/kevin7548/leetcode-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/kevin7548/leetcode-solutions/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/kevin7548/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Union-Find
 |  |
 | ------- |
