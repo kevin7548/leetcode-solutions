@@ -8,7 +8,7 @@ class Solution:
 
         while count < k:
             m = -heapq.heappop(h)    # 9
-            n = m - floor(m/2)  # 5
+            n = m - m // 2  # 5
             heapq.heappush(h, -n)
             count += 1
         
