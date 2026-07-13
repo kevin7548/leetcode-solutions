@@ -35,6 +35,7 @@
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kevin7548/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1898-maximum-number-of-removable-characters](https://github.com/kevin7548/leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kevin7548/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/kevin7548/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kevin7548/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kevin7548/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/kevin7548/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Sliding Window
 |  |
 | ------- |
