@@ -1,22 +1,21 @@
-import math
-
 class Solution:
     def shipWithinDays(self, weights: List[int], days: int) -> int:
-        def can_ship(capacity):
-            cur_cap, total_d = 0, 1
-            for w in weights:
-                cur_cap += w
-                if cur_cap > capacity:
-                    cur_cap = w
-                    total_d += 1
-            return total_d <= days
+        def can_ship(C):
+            w, d = 0, 1
+            for weight in weights:
+                w += weight
+                if w > C:
+                    d += 1
+                    w = weight
+            return d <= days
         
-        left, right = max(weights), sum(weights)    # 10(no) < mid=15(yes) < 55(yes)
-        while left < right:
-            mid = (left + right) // 2   
-            # 32(10,32), 21(10,21), 15(10,15), 12(13,15), 14(15,15)
+        lo, hi = max(weights), sum(weights) # lo(F), hi(T)
+        while lo < hi:
+            mid = (lo + hi) // 2
             if can_ship(mid):
-                right = mid
+                hi = mid
             else:
-                left = mid + 1
-        return left
+                lo = mid + 1
+
+        return lo
+        
