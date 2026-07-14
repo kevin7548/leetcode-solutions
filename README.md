@@ -28,6 +28,7 @@
 | [0704-binary-search](https://github.com/kevin7548/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kevin7548/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/kevin7548/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/kevin7548/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/kevin7548/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/kevin7548/leetcode-solutions/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kevin7548/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -134,6 +135,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kevin7548/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kevin7548/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/kevin7548/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kevin7548/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kevin7548/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/kevin7548/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
