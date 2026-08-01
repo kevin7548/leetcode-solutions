@@ -1,27 +1,27 @@
-from collections import defaultdict
+from collections import deque, defaultdict
 
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        # 초기 세팅
-        graph = defaultdict(list)   # {선수과목: [과목들]}
-        in_degree = [0] * numCourses
+        indeg = [0] * numCourses    # 안 들은 선수과목 수
+        graph = defaultdict(list)   # 선수과목: [과목]
+        queue = deque()
+        taken = 0
 
-        # 초기값 대입
-        for course, prereq in prerequisites:
-            graph[prereq].append(course)
-            in_degree[course] += 1
-        
-        # queue
-        queue = deque([i for i in range(numCourses) if in_degree[i] == 0])
-        count = 0
+        for a, b in prerequisites:  # a: 과목 b: 선수과목
+            graph[b].append(a)
+            indeg[a] += 1
+
+        for idx in range(len(indeg)):
+            if indeg[idx] == 0:
+                queue.append(idx)
+                taken += 1
         
         while queue:
-            count += 1
-            node = queue.popleft()
-            for i in graph[node]:
-                #** 선수과목을 모두 들어야 큐에 추가 **#
-                in_degree[i] -= 1
-                if in_degree[i] == 0:
-                    queue.append(i)
+            course = queue.popleft()
+            for c in graph[course]:
+                indeg[c] -= 1
+                if indeg[c] == 0:
+                    queue.append(c) # 선수과목 다 들은 것만 큐에
+                    taken += 1
 
-        return numCourses == count
+        return taken == numCourses
