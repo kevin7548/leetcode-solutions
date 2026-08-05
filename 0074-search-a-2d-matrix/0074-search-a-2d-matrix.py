@@ -1,19 +1,21 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        # 조건 많이 달수록 edge case 실수 (ex) if up == down, row + 1
-        # 2차원으로 row, column 두 번 검색하지 않고, 1차원으로 해석
-        M, N = len(matrix), len(matrix[0])
-        left = 0
-        right = M * N - 1
-        
-        while left <= right:
+        m, n = len(matrix), len(matrix[0])
+        left, right = 0, m * n -1
+
+        while left < right:
             mid = (left + right) // 2
-            value = matrix[mid // N][mid % N]
-            if target > value:
-                left = mid + 1
-            elif target < value:
+            a, b = mid // n, mid % n
+            if matrix[a][b] == target:
+                return True
+            elif matrix[a][b] > target:
                 right = mid - 1
             else:
-                return True
-        
-        return False
+                left = mid + 1
+
+        return target == matrix[left // n][left % n]
+
+        # 0, 11 => 5        0, 11 => 5
+        # 0, 4 => 2         0, 5 => 2
+        # 0, 1 => 0         0, 2 => 1
+        # 1, 1 => 1         
