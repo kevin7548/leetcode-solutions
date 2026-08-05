@@ -3,19 +3,14 @@ class Solution:
         m, n = len(matrix), len(matrix[0])
         left, right = 0, m * n -1
 
-        while left < right:
+        while left <= right:
             mid = (left + right) // 2
-            a, b = mid // n, mid % n
-            if matrix[a][b] == target:
+            val = matrix[mid // n][mid % n]
+            if val == target:
                 return True
-            elif matrix[a][b] > target:
+            elif val > target:
                 right = mid - 1
             else:
                 left = mid + 1
 
-        return target == matrix[left // n][left % n]
-
-        # 0, 11 => 5        0, 11 => 5
-        # 0, 4 => 2         0, 5 => 2
-        # 0, 1 => 0         0, 2 => 1
-        # 1, 1 => 1         
+        return False      
