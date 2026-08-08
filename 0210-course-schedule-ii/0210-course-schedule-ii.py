@@ -2,26 +2,26 @@ from collections import defaultdict, deque
 
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        indeg = [0] * numCourses    # 들어야 하는 선수과목 수
-        graph = defaultdict(list)   # 선수과목: [과목]
+        indeg = [0] * numCourses    # 필요한 선이수과목 수
+        graph = defaultdict(list)   # 선이수: [과목]
         queue = deque()
-        result = []
+        order = []
 
-        for a, b in prerequisites:
+        for a, b in prerequisites:  # b: 선이수, a: 과목
             graph[b].append(a)
             indeg[a] += 1
-
-        for idx in range(numCourses):
-            if indeg[idx] == 0:
-                queue.append(idx)
-                result.append(idx)
+        
+        for course in range(numCourses):
+            if indeg[course] == 0:
+                queue.append(course)
+                order.append(course)
 
         while queue:
             prereq = queue.popleft()
-            for course in graph[prereq]:
-                indeg[course] -= 1
-                if indeg[course] == 0:
-                    queue.append(course)
-                    result.append(course)
+            for c in graph[prereq]:
+                indeg[c] -= 1
+                if indeg[c] == 0:
+                    queue.append(c)
+                    order.append(c)
 
-        return result if len(result) == numCourses else []
+        return order if indeg == [0] * numCourses else []
