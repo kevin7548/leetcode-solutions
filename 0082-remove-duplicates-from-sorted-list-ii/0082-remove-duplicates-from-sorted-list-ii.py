@@ -12,13 +12,11 @@ class Solution:
         while curr:
             if curr.next and curr.val == curr.next.val:
                 val = curr.val 
-                while curr.next and val == curr.next.val:
+                while curr and val == curr.val:
                     curr = curr.next
-                prev.next = curr.next
-                curr = curr.next
+                prev.next = curr
             else:
                 prev = curr
                 curr = curr.next
 
         return dummy.next
-        # [] 인 경우 확인
