@@ -8,7 +8,7 @@ class Solution:
         node1, node2 = head, head
         for _ in range(n):
             if not node2.next:  # n == sz
-                return head.next
+                return head.next    # head만 제외
             node2 = node2.next
 
         while node2.next:
@@ -17,4 +17,3 @@ class Solution:
         node1.next = node1.next.next
 
         return head
-        
