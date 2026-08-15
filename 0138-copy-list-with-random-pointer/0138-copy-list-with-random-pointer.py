@@ -12,7 +12,7 @@ class Solution:
         if not head:
             return None
         
-        old_to_new = {}
+        old_to_new = {} # {원본: 복사}
 
         # 1: 복사본 노드 생성
         curr = head
