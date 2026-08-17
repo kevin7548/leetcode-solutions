@@ -6,19 +6,20 @@
 class Solution:
     def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
         dummy_less, dummy_great = ListNode(0), ListNode(0)
-        less, great = dummy_less, dummy_great
 
+        less, great = dummy_less, dummy_great
         curr = head
-        while curr:
+
+        while curr:  
             if curr.val < x:
                 less.next = curr
                 less = less.next
-            else:
+            else:   
                 great.next = curr
                 great = great.next
             curr = curr.next
-        
-        great.next = None   # 새 listnode는 끝도 처음처럼 정의 필요
-        less.next = dummy_great.next
 
+        less.next = dummy_great.next
+        great.next = None
+        
         return dummy_less.next
