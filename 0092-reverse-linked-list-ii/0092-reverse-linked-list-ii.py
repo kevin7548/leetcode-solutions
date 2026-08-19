@@ -12,9 +12,8 @@ class Solution:
             prev = prev.next
 
         curr = prev.next
-
         for _ in range(right - left):
-            nxt = curr.next
+            nxt = curr.next # 뽑을 노드
             curr.next = nxt.next
             nxt.next = prev.next
             prev.next = nxt
