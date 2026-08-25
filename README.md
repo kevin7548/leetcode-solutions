@@ -49,6 +49,7 @@
 | [0076-minimum-window-substring](https://github.com/kevin7548/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/kevin7548/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kevin7548/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/kevin7548/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/kevin7548/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kevin7548/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -170,6 +171,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kevin7548/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kevin7548/leetcode-solutions/tree/master/0155-min-stack) |
 ## Tree
 |  |
@@ -270,6 +272,7 @@
 | [0086-partition-list](https://github.com/kevin7548/leetcode-solutions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kevin7548/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/kevin7548/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/kevin7548/leetcode-solutions/tree/master/0146-lru-cache) |
 ## Merge Sort
 |  |
 | ------- |
@@ -295,4 +298,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kevin7548/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kevin7548/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
