@@ -50,6 +50,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kevin7548/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/kevin7548/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/kevin7548/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/kevin7548/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kevin7548/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -92,6 +93,7 @@
 | [0049-group-anagrams](https://github.com/kevin7548/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/kevin7548/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kevin7548/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/kevin7548/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kevin7548/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/kevin7548/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -173,6 +175,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/kevin7548/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kevin7548/leetcode-solutions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Tree
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Directed Acyclic Graph
 |  |
