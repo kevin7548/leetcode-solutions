@@ -1,39 +1,37 @@
 class Node:
-    def __init__(self, key, data=None):
-        self.key = key
-        self.data = data
+    def __init__(self):
         self.children = {}  # {char: Node(char)}
+        self.is_end = False
 
 class Trie:
     def __init__(self):
-        self.head = Node(None)
+        self.head = Node()
 
     def insert(self, word: str) -> None:
         curr_node = self.head
         for char in word:
             if char not in curr_node.children:
-                curr_node.children[char] = Node(char)
+                curr_node.children[char] = Node()
             curr_node = curr_node.children[char]
-        curr_node.data = word
+        curr_node.is_end = True
 
     def search(self, word: str) -> bool:
-        curr_node = self.head
-        for char in word:
-            if char in curr_node.children:
-                curr_node = curr_node.children[char]
-            else:
-                return False
-        return True if curr_node.data == word else False
+        curr_node = self.walk(self.head, word)
+        if curr_node is None:
+            return False
+        return curr_node.is_end
 
     def startsWith(self, prefix: str) -> bool:
-        curr_node = self.head
-        for char in prefix:
-            if char in curr_node.children:
-                curr_node = curr_node.children[char]
-            else:
-                return False
-        return True if curr_node else False
+        curr_node = self.walk(self.head, prefix)
+        return curr_node is not None
 
+    def walk(self, node, word: str):    # return 값 필요 (None)
+        for char in word:
+            if char in node.children:
+                node = node.children[char]
+            else:
+                return None
+        return node
 
 # Your Trie object will be instantiated and called as such:
 # obj = Trie()
