@@ -94,6 +94,7 @@
 | [0076-minimum-window-substring](https://github.com/kevin7548/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kevin7548/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kevin7548/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/kevin7548/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/kevin7548/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/kevin7548/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -176,6 +177,7 @@
 | [0146-lru-cache](https://github.com/kevin7548/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kevin7548/leetcode-solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kevin7548/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Tree
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0200-number-of-islands](https://github.com/kevin7548/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kevin7548/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kevin7548/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kevin7548/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kevin7548/leetcode-solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
@@ -284,6 +287,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kevin7548/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/kevin7548/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 ## Directed Acyclic Graph
 |  |
