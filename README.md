@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/kevin7548/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/kevin7548/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/kevin7548/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0560-subarray-sum-equals-k](https://github.com/kevin7548/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kevin7548/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kevin7548/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -112,6 +113,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/kevin7548/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kevin7548/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kevin7548/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/kevin7548/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/kevin7548/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/kevin7548/leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kevin7548/leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
